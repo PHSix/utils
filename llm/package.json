@@ -1,0 +1,17 @@
+{
+  "name": "@ph/llm-utils",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Some llm utils functions.",
+  "author": "ph <chenyi.ph@outlook.com>",
+  "license": "MIT",
+  "keywords": [],
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "eslint-plugin-format": "^0.1.2"
+  }
+}

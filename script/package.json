@@ -1,0 +1,22 @@
+{
+  "name": "script-utils",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^7.0.5"
+  },
+  "devDependencies": {
+    "@ph/common-utils": "workspace:*",
+    "@types/node": "^20.14.12",
+    "node-fetch": "^3.3.2"
+  }
+}

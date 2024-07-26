@@ -1,0 +1,4 @@
+packages:
+  - script
+  - llm
+  - common

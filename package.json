@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Some tool functions target certain work scenarios",
+  "author": "ph <chenyi.ph@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@antfu/eslint-config": "^2.23.2",
+    "eslint": "^9.7.0",
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@ph/common-utils",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Some common utils functions.",
+  "author": "ph <chenyi.ph@outlook.com>",
+  "license": "MIT",
+  "keywords": [],
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-format": "^0.1.2"
+  }
+}
